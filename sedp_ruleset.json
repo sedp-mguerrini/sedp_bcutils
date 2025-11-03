@@ -1,0 +1,11 @@
+{
+    "name": "SEDP Ruleset",
+    "description": "Regole condivise per gli sviluppi",
+    "rules": [
+            {
+                "id": "PTE0023",
+                "action": "Hide",
+                "justification": "Accettiamo enum di qualunque valore."
+            }
+    ]
+}
